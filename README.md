@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelemnati" alt="kelemnati" /></a> </p>
 
-- 💬 Ask me about **Flutter, Firebase, Dart,**
+- 💬 Ask me about **Flutter, Firebase, Node, Dart,**
 
 - 📫 How to reach me **natikeleme1@gmail.com**
 
