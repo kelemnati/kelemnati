@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nathnael Keleme</h1>
+<h1 align="center">Hi 👋, I'm Nathnael</h1>
 <h3 align="center">Software Developer | Web & Mobile Apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelemnati&label=Profile%20views&color=0e75b6&style=flat" alt="kelemnati" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelemnati" alt="kelemnati" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://nati-keleme.vercel.app/](https://nati-keleme.vercel.app/)
 
 - 💬 Ask me about **Web & Mobile Apps Development**
 
